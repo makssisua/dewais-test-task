@@ -1,8 +1,10 @@
+import React from 'react';
+import SearchForm from "./components/SearchField";
 
-function App() {
+const App: React.FC = () => {
   return (
     <div className="flex justify-center items-center h-screen flex-col">
-      Dewais test task
+      <SearchForm />
     </div>
   );
 }
