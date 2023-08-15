@@ -1,4 +1,4 @@
-Test task: fetch and display GitHub user profile
+Test task: fetch and display GitHub user profile <br>
 Stack: React, Redux Toolkit, TypeScript, TailwindCSS
 
 In the project directory, you can run:
